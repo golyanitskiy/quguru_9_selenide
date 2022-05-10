@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class DrapAndDropTest {
+public class DragAndDropTest {
     @BeforeAll
     static void beforeAll() {
         Configuration.headless = true;
